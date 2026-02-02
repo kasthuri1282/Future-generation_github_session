@@ -1,0 +1,28 @@
+{
+  "prompt": "A cinematic modern city scene with a young professional man and woman walking confidently in a corporate business district. The man is wearing a formal blue shirt and black trousers holding a laptop, the woman is wearing a blue traditional dress holding files. Futuristic glass office buildings on both sides, people walking in the background, soft morning sunlight, light fog and haze, cinematic depth of field, realistic shadows, dramatic lighting, ultra realistic, professional film look, high detail, shallow depth of field, global illumination, cinematic color grading, 8K quality",
+  
+  "style": "cinematic, ultra realistic, corporate lifestyle, HDR, professional film look",
+  
+  "camera": {
+    "shot_type": "wide angle street shot",
+    "lens": "50mm cinematic lens",
+    "perspective": "low angle walking shot with city leading lines",
+    "depth_of_field": "shallow depth of field with background blur"
+  },
+  
+  "lighting": {
+    "type": "soft morning golden light",
+    "effects": ["soft fog", "sun rays", "natural shadows"]
+  },
+  
+  "image_settings": {
+    "aspect_ratio": "16:9",
+    "resolution": "4096x2304",
+    "quality": "ultra HD, 8K",
+    "sharpness": "high detail realistic textures"
+  },
+  
+  "mood": "inspirational, modern, confident, corporate, futuristic",
+  
+  "negative_prompt": "cartoon, anime, low quality, blurry, distortion, watermark, text, oversaturated colors, unrealistic faces"
+}
