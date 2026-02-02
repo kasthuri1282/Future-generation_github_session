@@ -1,0 +1,15 @@
+{
+  "prompt": "A powerful cinematic scene showing traditional farmers working in green rice fields on the left, planting crops in water with oxen, while on the right villagers walk away toward a large modern industrial city with tall factory chimneys releasing thick smoke. Strong contrast between nature and industrialization, emotional storytelling theme, dramatic clouds, golden sunrise light, cinematic color grading, volumetric light rays, realistic shadows, global illumination, ultra realistic, high detail, film look, 8K quality, shallow depth of field, wide perspective",
+  
+  "style": "cinematic, ultra realistic, HDR, dramatic, documentary film look",
+  
+  "camera": {
+    "shot_type": "wide angle landscape shot",
+    "lens": "35mm cinematic lens",
+    "depth_of_field": "shallow depth of field with background blur",
+    "perspective": "deep perspective leading lines road"
+  },
+  
+  "lighting": {
+    "type": "golden hour sunrise lighting",
+    "effects": ["v]()

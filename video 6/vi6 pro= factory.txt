@@ -1,0 +1,29 @@
+{
+  "prompt": "A powerful cinematic scene showing a contrast between traditional agriculture and industrialization. On the left side, farmers working in green rice fields with oxen and planting crops in water. On the right side, villagers walking away from farmland toward a large modern factory city with tall chimneys releasing smoke. Emotional and dramatic atmosphere showing rural migration and environmental change. Ultra realistic, cinematic film look, dramatic clouds, golden sunrise lighting, volumetric light rays, shallow depth of field, realistic shadows, global illumination, emotional storytelling mood",
+  
+  "style": "cinematic, ultra realistic, movie quality, HDR, dramatic storytelling",
+  
+  "camera": {
+    "movement": "slow cinematic drone forward tracking shot",
+    "angle": "wide landscape shot with deep perspective",
+    "lens": "35mm cinematic lens",
+    "depth_of_field": "shallow depth of field with background blur"
+  },
+  
+  "lighting": {
+    "type": "golden hour sunrise lighting",
+    "effects": ["volumetric fog", "sun rays", "soft haze"]
+  },
+  
+  "video_settings": {
+    "aspect_ratio": "16:9",
+    "resolution": "1920x1080",
+    "fps": 30,
+    "duration_seconds": 8,
+    "quality": "4K Ultra HD"
+  },
+  
+  "mood": "emotional, cinematic, serious, inspirational, dramatic",
+  
+  "negative_prompt": "cartoon, anime, low quality, blurry, distorted, watermark, text, unrealistic people, oversaturated"
+}
