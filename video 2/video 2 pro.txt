@@ -1,0 +1,30 @@
+{
+  "task": "image_to_cinematic_video",
+  "input_image": "sunrise_forest_flowers_birds.png",
+  "aspect_ratio": "16:9",
+  "duration": "8s",
+  "resolution": "4K",
+  "style": "ultra realistic cinematic nature film",
+  "camera_motion": {
+    "type": "slow cinematic drone push forward",
+    "movement": "slight upward tilt and forward dolly",
+    "stabilization": true
+  },
+  "scene_animation": {
+    "sun_rays": "volumetric sun light rays slowly moving",
+    "birds": "birds flying smoothly across the sky in cinematic motion",
+    "clouds": "slow moving soft clouds",
+    "mist": "light morning fog drifting over forest",
+    "flowers": "subtle wind movement on flowers and grass"
+  },
+  "lighting": "golden sunrise cinematic lighting with god rays",
+  "color_grading": "cinematic teal and orange, HDR natural vibrant colors",
+  "mood": "peaceful, inspirational, epic morning nature",
+  "sound": {
+    "bgm": "soft cinematic ambient nature music",
+    "sfx": ["birds chirping", "light wind"]
+  },
+  "quality": "ultra HD, film grain, sharp focus, realistic textures",
+  "transitions": "smooth cinematic fade in and fade out",
+  "negative_prompt": "blur, low resolution, jitter, cartoon, distortion, artifacts, watermark, text"
+}

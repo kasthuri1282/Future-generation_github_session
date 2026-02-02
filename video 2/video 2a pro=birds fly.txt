@@ -1,0 +1,31 @@
+{
+  "input_type": "image_to_video",
+  "input_image_description": "A cinematic sunrise landscape with layered mountains, a winding river through dense forests, colorful wildflowers in the foreground, mist-filled valleys, and birds flying across a glowing sky.",
+  "prompt": "Transform the input image into a cinematic nature film. Animate the sunrise slowly rising above the mountains. Soft golden light spreads across the valley, volumetric god rays cutting through morning mist. The river subtly shimmers as fog drifts gently. Foreground wildflowers sway naturally in a light breeze. A flock of birds slowly flies across the sky, adding depth and scale. Maintain ultra-realistic textures and a calm, emotional cinematic tone.",
+  "motion": {
+    "camera_movement": "slow cinematic push forward with subtle parallax",
+    "environment_motion": [
+      "mist drifting slowly",
+      "sun rays expanding",
+      "flowers gently swaying",
+      "birds flying smoothly"
+    ]
+  },
+  "style": "cinematic ultra-realism",
+  "lighting": "golden sunrise light, soft volumetric rays, atmospheric haze",
+  "color_grading": "cinematic teal and gold, warm highlights, cool shadows",
+  "mood": "peaceful, majestic, awe-inspiring, emotional",
+  "camera": {
+    "frame_rate": "24fps",
+    "lens": "anamorphic 24mm",
+    "depth_of_field": "deep cinematic focus",
+    "stabilization": "ultra-smooth"
+  },
+  "duration_seconds": 8,
+  "quality": {
+    "resolution": "4K",
+    "dynamic_range": "HDR",
+    "motion_quality": "smooth cinematic"
+  },
+  "negative_prompt": "shaky motion, fast camera moves, artificial animation, flickering, cartoon look, oversaturation, distorted landscape"
+}
