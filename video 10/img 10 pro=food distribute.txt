@@ -1,0 +1,8 @@
+{
+  "prompt": "Cinematic photo of a young female volunteer giving food and water to poor villagers in a dry rural area, Indian village, cracked dry land, villagers sitting on the ground, factories in the background with smoke, social service theme, emotional scene, golden hour lighting, film still, shallow depth of field, ultra realistic, high detail, 35mm, dramatic composition",
+  "negative_prompt": "blurry, low quality, cartoon, unrealistic, distorted faces, bad anatomy",
+  "size": "1920x1080",
+  "n": 1,
+  "cfg_scale": 8,
+  "steps": 30
+}
