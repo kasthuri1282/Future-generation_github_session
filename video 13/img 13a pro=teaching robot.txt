@@ -1,0 +1,71 @@
+{
+  "image": {
+    "resolution": "8K",
+    "aspect_ratio": "16:9",
+    "quality": "ultra cinematic, photorealistic",
+    "style": "cinematic film still"
+  },
+  "scene": {
+    "location": "rural rice paddy village",
+    "country_vibe": "South Asian countryside",
+    "time_of_day": "golden hour, early morning",
+    "environment": "shallow flooded rice fields, soft mist, palm trees, thatched huts",
+    "atmosphere": "hopeful, serene, futuristic yet grounded"
+  },
+  "subjects": [
+    {
+      "type": "human farmer",
+      "description": "middle-aged farmer planting rice seedlings",
+      "appearance": "weathered face, humble rural clothing",
+      "emotion": "focused, trusting, calm"
+    },
+    {
+      "type": "humanoid robot",
+      "description": "advanced AI humanoid robot assisting the farmer",
+      "design": "smooth white futuristic body with soft curves",
+      "emotion": "gentle, cooperative, intelligent",
+      "interaction": "carefully holding rice plants with the farmer"
+    }
+  ],
+  "technology_elements": {
+    "hologram": "transparent blue holographic agricultural interface",
+    "data_visuals": "floating UI charts and plant analytics",
+    "support_robots": "small AI robots assisting in background",
+    "drone": "autonomous drone hovering above monitoring crops"
+  },
+  "camera": {
+    "shot_type": "medium cinematic shot",
+    "angle": "eye-level",
+    "composition": "rule of thirds, human and robot centered",
+    "lens": "50mm anamorphic",
+    "depth_of_field": "shallow, creamy background blur",
+    "focus": "sharp on hands and rice plants"
+  },
+  "lighting": {
+    "style": "natural cinematic lighting",
+    "key_light": "warm sunlight from horizon",
+    "fill_light": "soft reflected light from water",
+    "rim_light": "subtle backlight outlining robot and farmer",
+    "contrast": "balanced cinematic contrast"
+  },
+  "color_grading": {
+    "look": "warm cinematic grade",
+    "palette": "golden yellows, soft greens, cool blue tech accents",
+    "saturation": "natural",
+    "film_stock": "Kodak Vision3 250D"
+  },
+  "post_processing": {
+    "film_grain": "fine cinematic grain",
+    "bloom": "soft bloom on sunlight and hologram",
+    "vignette": "light cinematic vignette",
+    "clarity": "high micro-detail"
+  },
+  "mood_theme": {
+    "theme": "technology serving humanity",
+    "emotion": "hope, harmony, progress",
+    "message": "AI empowering farmers and nature"
+  },
+  "constraints": {
+    "no_distortion": true,
+    "no_extra_limbs": true,
+    "no_text_overlay

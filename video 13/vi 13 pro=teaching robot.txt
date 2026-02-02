@@ -1,0 +1,65 @@
+{
+  "video": {
+    "duration": "8 seconds",
+    "fps": 24,
+    "resolution": "4K",
+    "aspect_ratio": "2.39:1",
+    "quality": "ultra cinematic, photorealistic"
+  },
+  "scene": {
+    "location": "futuristic city street",
+    "time": "night",
+    "weather": "light rain with mist",
+    "environment_details": "wet asphalt reflecting neon lights, light fog drifting"
+  },
+  "subject": {
+    "type": "single human character",
+    "description": "a lone man walking slowly toward camera",
+    "age": "early 30s",
+    "emotion": "calm, introspective",
+    "wardrobe": "dark trench coat, modern boots",
+    "movement": "slow, confident walk"
+  },
+  "camera": {
+    "shot_type": "cinematic wide shot transitioning to medium shot",
+    "angle": "eye level",
+    "movement": "slow dolly forward",
+    "stabilization": "smooth cinematic gimbal",
+    "lens": "40mm anamorphic",
+    "depth_of_field": "shallow, soft background bokeh"
+  },
+  "lighting": {
+    "style": "low-key cinematic lighting",
+    "key_light": "soft diffused neon light",
+    "rim_light": "subtle backlight separating subject from background",
+    "contrast": "high contrast with deep shadows"
+  },
+  "color_grading": {
+    "look": "teal and orange cinematic grade",
+    "saturation": "muted",
+    "highlights": "cool",
+    "shadows": "deep blue",
+    "film_stock": "Kodak Vision3 500T"
+  },
+  "motion": {
+    "subject_motion": "natural human movement",
+    "environment_motion": "rain falling, mist slowly moving",
+    "motion_blur": "realistic cinematic motion blur"
+  },
+  "post_processing": {
+    "film_grain": "subtle cinematic grain",
+    "vignette": "soft edges",
+    "bloom": "light bloom on neon lights",
+    "sharpness": "cinema soft"
+  },
+  "style_reference": {
+    "cinematic_vibe": "Blade Runner 2049",
+    "director_influence": "Denis Villeneuve",
+    "mood": "atmospheric, emotional, immersive"
+  },
+  "output_constraints": {
+    "no_text": true,
+    "no_logo": true,
+    "no_watermark": true
+  }
+}

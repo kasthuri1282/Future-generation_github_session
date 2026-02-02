@@ -1,0 +1,79 @@
+{
+  "image": {
+    "resolution": "8K",
+    "aspect_ratio": "16:9",
+    "quality": "ultra cinematic, hyper-realistic",
+    "style": "cinematic documentary still"
+  },
+  "scene": {
+    "location": "lush green agricultural field",
+    "region_vibe": "tropical South Asian countryside",
+    "time_of_day": "early morning",
+    "environment": "healthy rice crops, palm trees in background, clear sky",
+    "atmosphere": "optimistic, innovative, future-forward"
+  },
+  "subjects": [
+    {
+      "type": "human technology leader",
+      "description": "young man standing confidently in a farm field",
+      "wardrobe": "green technology t-shirt, casual jeans",
+      "emotion": "confident, welcoming, visionary",
+      "pose": "one hand gesturing toward AI systems, holding tablet in other hand"
+    },
+    {
+      "type": "humanoid robots",
+      "count": 4,
+      "design": "clean white futuristic AI robots with blue accents",
+      "role": "assisting in smart agriculture operations",
+      "emotion": "neutral, intelligent, cooperative"
+    }
+  ],
+  "technology_elements": {
+    "drone": {
+      "description": "autonomous agricultural drone hovering overhead",
+      "purpose": "crop monitoring and data capture"
+    },
+    "ai_equipment": "ground-based AI farming robot with tracks",
+    "sensors": "smart agricultural sensors placed in soil",
+    "support_infrastructure": "portable technology tent in background"
+  },
+  "camera": {
+    "shot_type": "wide cinematic shot",
+    "angle": "eye-level",
+    "composition": "hero composition with central human subject",
+    "lens": "35mm anamorphic",
+    "depth_of_field": "moderate background blur",
+    "focus": "sharp on human and primary robots"
+  },
+  "lighting": {
+    "style": "natural cinematic daylight",
+    "key_light": "soft diffused sunlight",
+    "fill_light": "environmental bounce from greenery",
+    "rim_light": "subtle highlights on robots",
+    "contrast": "clean cinematic contrast"
+  },
+  "color_grading": {
+    "look": "modern cinematic commercial grade",
+    "palette": "lush greens, clean whites, soft blues",
+    "saturation": "vibrant but natural",
+    "film_stock": "Kodak Vision3 250D"
+  },
+  "post_processing": {
+    "film_grain": "very subtle",
+    "clarity": "high detail",
+    "vignette": "soft cinematic vignette",
+    "bloom": "light bloom on highlights"
+  },
+  "mood_theme": {
+    "theme": "AI empowering sustainable agriculture",
+    "emotion": "trust, innovation, progress",
+    "message": "technology serving farmers and nature"
+  },
+  "constraints": {
+    "no_extra_limbs": true,
+    "no_face_distortion": true,
+    "no_text_overlay": true,
+    "no_watermark": true,
+    "no_logo": true
+  }
+}
