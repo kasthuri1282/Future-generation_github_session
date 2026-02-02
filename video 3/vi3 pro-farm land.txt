@@ -1,0 +1,19 @@
+{
+  "prompt": "Cinematic aerial drone video of vast green agricultural fields beside a dense forest, soft morning sunlight casting long shadows, birds flying in the sky, misty horizon, peaceful rural atmosphere, ultra realistic nature, cinematic composition, film color grading, atmospheric haze, epic wide-angle shot",
+
+  "negative_prompt": "blurry, low resolution, noise, cartoon, anime, artificial colors, oversaturated, watermark, text, logo, distortion, flicker, jitter",
+
+  "aspect_ratio": "16:9",
+  "resolution": "3840x2160",
+  "duration": "8s",
+  "fps": 30,
+
+  "camera_motion": "slow cinematic drone forward flyover with gentle pan right and slight tilt down",
+  "stabilization": "cinematic gimbal stabilization",
+
+  "lighting": "soft morning sunlight with long shadows and atmospheric haze",
+  "color_grading": "cinematic film LUT, natural green tones, HDR",
+  "style": "cinematic, ultra realistic, nature documentary, movie trailer",
+
+  "quality": "8K ultra detailed, HDR, professional cinematic video"
+}

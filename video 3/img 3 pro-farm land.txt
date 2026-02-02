@@ -1,0 +1,22 @@
+{
+  "prompt": "A cinematic aerial landscape of vast green agricultural fields beside a dense forest, morning sunlight casting long shadows across the farmland, soft mist in the distance, birds flying in the sky, peaceful rural atmosphere, epic wide-angle drone shot, ultra realistic nature, cinematic composition, HDR, sharp focus, film color grading, natural colors, atmospheric depth",
+
+  "negative_prompt": "blurry, low resolution, noise, cartoon, anime, artificial colors, oversaturated, watermark, text, logo, distortion, pixelated",
+
+  "aspect_ratio": "16:9",
+  "resolution": "3840x2160",
+
+  "style": "cinematic, ultra realistic, drone photography, nature documentary",
+  
+  "camera": {
+    "type": "aerial drone wide angle lens",
+    "focal_length": "24mm",
+    "aperture": "f/4",
+    "iso": 100,
+    "shutter_speed": "1/500"
+  },
+
+  "lighting": "soft morning sunlight with long shadows and atmospheric haze",
+  "color_grading": "cinematic film LUT, natural green tones, HDR",
+  "quality": "8K ultra detailed, professional cinematic photography"
+}
