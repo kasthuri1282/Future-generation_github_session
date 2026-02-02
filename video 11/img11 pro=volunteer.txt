@@ -1,0 +1,8 @@
+{
+  "prompt": "Cinematic photo of two male volunteers distributing rice and fresh vegetables to rural villagers in an Indian village, women in colorful sarees smiling, traditional mud houses, cows in the background, sunset golden hour lighting, humanitarian social service theme, emotional moment, film still, shallow depth of field, ultra realistic, 35mm lens, dramatic composition",
+  "negative_prompt": "blurry, low quality, cartoon, anime, unrealistic lighting, distorted faces, extra fingers",
+  "size": "1920x1080",
+  "n": 1,
+  "cfg_scale": 8,
+  "steps": 30
+}

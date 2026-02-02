@@ -1,0 +1,12 @@
+{
+  "prompt": "Cinematic video of two male volunteers distributing rice and fresh vegetables to rural villagers in an Indian village, women in colorful sarees smiling, traditional mud houses, cows walking in the background, humanitarian social service theme, emotional and heartwarming moment, golden hour sunset lighting, film still look, shallow depth of field, ultra realistic, dramatic composition",
+  "negative_prompt": "cartoon, anime, low quality, blurry, jittery motion, unrealistic movement, distorted faces",
+  "duration": 8,
+  "fps": 24,
+  "size": "1920x1080",
+  "camera": "slow cinematic dolly shot moving forward",
+  "motion": "gentle hand movements, people smiling and interacting, cows slowly walking",
+  "lighting": "warm golden hour, soft volumetric light",
+  "style": "cinematic, film look, 35mm, anamorphic lens",
+  "seed": 2025
+}
