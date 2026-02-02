@@ -1,0 +1,61 @@
+{
+  "prompt": "A cinematic futuristic AI research laboratory where humans and artificial intelligence work together. The scene opens with a slow dolly shot through a high-tech lab filled with soft blue ambient lighting. Diverse human scientists interact with large transparent holographic screens displaying neural networks, data graphs, and code. A robotic arm moves gracefully, synchronizing with human gestures, symbolizing cooperation rather than replacement. Subtle digital particles float in the air. Emotional and inspirational tone.",
+  "scene_flow": [
+    {
+      "scene": 1,
+      "description": "Wide establishing shot of a futuristic AI lab with holographic interfaces glowing in blue and cyan tones.",
+      "camera_movement": "slow cinematic dolly forward",
+      "duration_seconds": 3
+    },
+    {
+      "scene": 2,
+      "description": "Medium shot of human scientists collaborating with a robotic arm, touching holographic data together.",
+      "camera_movement": "smooth pan left",
+      "duration_seconds": 4
+    },
+    {
+      "scene": 3,
+      "description": "Close-up of robotic hand and human hand aligning on a transparent hologram, light pulses gently.",
+      "camera_movement": "slow push-in",
+      "duration_seconds": 3
+    },
+    {
+      "scene": 4,
+      "description": "Text fades in over the scene: 'AI is not here to replace human work.'",
+      "text_animation": "soft fade-in with glow",
+      "duration_seconds": 2
+    },
+    {
+      "scene": 5,
+      "description": "Second line of text appears larger: 'AI is our best friend.'",
+      "text_animation": "gentle scale-up with cyan glow",
+      "duration_seconds": 2
+    },
+    {
+      "scene": 6,
+      "description": "Final line of text fades in: 'It helps to solve human error.' Camera slowly pulls back showing humans and AI working together.",
+      "camera_movement": "slow cinematic pull-back",
+      "duration_seconds": 4
+    }
+  ],
+  "style": "cinematic sci-fi realism",
+  "lighting": "soft blue ambient light, neon cyan highlights, volumetric light rays",
+  "color_grading": "cool teal and blue cinematic grade, high contrast, clean whites",
+  "mood": "inspirational, hopeful, intelligent, futuristic",
+  "camera": {
+    "frame_rate": "24fps",
+    "aspect_ratio": "16:9",
+    "lens": "anamorphic 50mm",
+    "depth_of_field": "shallow cinematic blur"
+  },
+  "audio_suggestion": {
+    "music": "soft futuristic ambient score with emotional piano",
+    "sound_effects": ["subtle digital hum", "soft interface beeps"]
+  },
+  "quality": {
+    "resolution": "4K",
+    "dynamic_range": "HDR",
+    "motion_quality": "smooth cinematic"
+  },
+  "negative_prompt": "cartoon animation, dark dystopian mood, horror elements, chaotic motion, shaky camera, aggressive robots, low resolution"
+}

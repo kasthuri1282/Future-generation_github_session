@@ -1,0 +1,104 @@
+{
+  "video": {
+    "duration": "12 seconds",
+    "fps": 24,
+    "resolution": "4K",
+    "aspect_ratio": "2.39:1",
+    "quality": "ultra cinematic, photorealistic, film-grade"
+  },
+  "scene": {
+    "location": "flooded rice paddy farmland",
+    "region_vibe": "rural South Asian countryside",
+    "time_of_day": "sunset golden hour",
+    "weather": "dramatic clouds with warm sun rays breaking through",
+    "environment": "water-filled rice rows reflecting the sky, distant mountains, palm trees, rural huts",
+    "atmosphere": "epic, calm, hopeful future"
+  },
+  "subjects": {
+    "primary": {
+      "type": "humanoid AI robot",
+      "design": "advanced white humanoid robot with subtle blue AI markings",
+      "mobility": "tracked agricultural base",
+      "action": "kneeling in shallow water, gently planting rice seedlings while checking data on a handheld device",
+      "emotion": "focused, intelligent, calm"
+    },
+    "secondary": {
+      "drones": {
+        "count": 3,
+        "description": "autonomous agricultural drones",
+        "action": "slow synchronized flight pattern above the field"
+      }
+    }
+  },
+  "technology_elements": {
+    "soil_sensors": "smart sensors blinking softly near crops",
+    "field_tent": "portable agricultural technology tent in background",
+    "data_feedback": "subtle blue UI glow reflected on robot surfaces"
+  },
+  "camera": {
+    "shot_sequence": [
+      {
+        "shot_type": "wide establishing shot",
+        "movement": "slow cinematic push forward",
+        "angle": "low eye-level aligned with crop rows",
+        "lens": "32mm anamorphic"
+      },
+      {
+        "shot_type": "medium hero shot",
+        "movement": "gentle dolly left",
+        "angle": "slightly low angle",
+        "lens": "50mm anamorphic"
+      },
+      {
+        "shot_type": "close-up detail shot",
+        "movement": "slow tilt down",
+        "focus": "robot hand touching water and seedlings",
+        "lens": "75mm anamorphic"
+      }
+    ],
+    "stabilization": "cinematic gimbal smoothness",
+    "depth_of_field": "shallow cinematic focus with soft falloff"
+  },
+  "lighting": {
+    "style": "natural cinematic sunset lighting",
+    "key_light": "warm low-angle sunlight from horizon",
+    "fill_light": "soft sky diffusion",
+    "rim_light": "golden rim outlining robot and drones",
+    "contrast": "high dynamic range with preserved shadow detail"
+  },
+  "color_grading": {
+    "look": "epic cinematic film grade",
+    "palette": "warm golds, earthy greens, cool technological blues",
+    "saturation": "rich but restrained",
+    "film_stock": "Kodak Vision3 500T"
+  },
+  "motion": {
+    "robot_motion": "slow, precise, human-like movements",
+    "drone_motion": "smooth stabilized flight",
+    "environment_motion": "gentle water ripples and crop movement",
+    "motion_blur": "natural cinematic motion blur"
+  },
+  "post_processing": {
+    "film_grain": "fine organic cinematic grain",
+    "bloom": "soft bloom around sun and highlights",
+    "vignette": "subtle cinematic vignette",
+    "reflections": "realistic water reflections"
+  },
+  "style_reference": {
+    "genre": "cinematic sci-fi realism",
+    "inspiration": [
+      "Denis Villeneuve",
+      "Blade Runner 2049 (natural scenes)",
+      "Netflix documentary cinematography"
+    ],
+    "mood": "hopeful, intelligent, human-centered future"
+  },
+  "constraints": {
+    "no_text": true,
+    "no_logo": true,
+    "no_watermark": true,
+    "no_distortion": true,
+    "no_extra_limbs": true,
+    "no_flicker": true
+  }
+}

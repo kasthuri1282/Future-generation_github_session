@@ -1,0 +1,29 @@
+{
+  "prompt": "A romantic cinematic scene of an Indian couple walking hand in hand through lush green paddy fields during golden hour. The man wears a casual light-colored shirt and jeans, the woman wears a traditional blue saree. A narrow muddy footpath with shallow water runs between the fields, reflecting the warm sunset light. Butterflies and dragonflies float gently in the air. The sky is dramatic with soft clouds glowing in orange and pink hues. Distant village huts, trees, and farmers working in the fields add realism. Emotional, peaceful, and heartfelt rural atmosphere, South Indian countryside aesthetic.",
+  "style": "cinematic realism",
+  "lighting": "golden hour, soft sunlight, volumetric light rays, warm tones",
+  "camera": {
+    "shot_type": "wide shot",
+    "angle": "eye-level",
+    "lens": "35mm",
+    "depth_of_field": "shallow background blur"
+  },
+  "color_grading": "teal and orange cinematic color grading, natural greens, warm highlights",
+  "mood": "romantic, serene, nostalgic, emotionally warm",
+  "environment": {
+    "location": "rural South Indian village",
+    "season": "monsoon harvest",
+    "time_of_day": "sunset"
+  },
+  "details": {
+    "water_reflections": true,
+    "natural_particles": ["butterflies", "dragonflies"],
+    "wind_effect": "gentle breeze through rice plants"
+  },
+  "quality": {
+    "resolution": "8K",
+    "sharpness": "high",
+    "dynamic_range": "HDR"
+  },
+  "negative_prompt": "urban background, modern buildings, crowd, overexposed lighting, cartoon style, low resolution, blurry faces, artificial colors"
+}

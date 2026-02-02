@@ -1,0 +1,81 @@
+{
+  "image": {
+    "resolution": "8K",
+    "aspect_ratio": "16:9",
+    "quality": "ultra cinematic, photorealistic, film still"
+  },
+  "scene": {
+    "location": "modern rural Indian home with open kitchen and glass doors",
+    "environment": "lush green farmland visible outside, calm countryside",
+    "time_of_day": "golden hour sunset",
+    "atmosphere": "warm, hopeful, future-forward family moment"
+  },
+  "subjects": {
+    "primary": {
+      "description": "young Indian man seated at a dining table",
+      "appearance": "casual modern clothing, relaxed confident expression",
+      "action": "interacting with a transparent holographic AI interface showing smart farming data"
+    },
+    "secondary": {
+      "description": "Indian woman wearing an elegant blue sari",
+      "role": "supportive partner",
+      "action": "cooking beside him, smiling naturally"
+    }
+  },
+  "technology": {
+    "interface": {
+      "type": "futuristic holographic display",
+      "content": "AI-powered agriculture dashboard with drone feeds, crop health analytics",
+      "color": "soft cyan-blue glow",
+      "style": "clean, minimal, high-tech HUD"
+    }
+  },
+  "camera": {
+    "shot_type": "wide cinematic interior shot",
+    "angle": "eye-level",
+    "lens": "35mm anamorphic",
+    "depth_of_field": "shallow background blur, crisp subjects",
+    "composition": "rule of thirds, balanced interior and exterior framing"
+  },
+  "lighting": {
+    "style": "natural cinematic lighting",
+    "key_light": "warm sunlight entering from right side",
+    "fill_light": "soft indoor ambient light",
+    "rim_light": "golden edge light outlining characters",
+    "shadows": "soft, realistic"
+  },
+  "color_grading": {
+    "look": "cinematic film grade",
+    "palette": "warm golds, neutral interiors, cool tech blues",
+    "contrast": "moderate cinematic contrast",
+    "film_stock": "Kodak Vision3"
+  },
+  "details": {
+    "materials": "realistic glass reflections, polished floor tiles",
+    "fabric": "natural sari texture with subtle highlights",
+    "skin_tones": "accurate, soft, cinematic realism"
+  },
+  "post_processing": {
+    "film_grain": "subtle cinematic grain",
+    "bloom": "soft glow on highlights",
+    "vignette": "very light vignette",
+    "sharpness": "natural, not over-sharpened"
+  },
+  "style_reference": {
+    "genre": "cinematic sci-fi realism",
+    "inspiration": [
+      "Netflix original film still",
+      "Apple futuristic lifestyle ads",
+      "Denis Villeneuve interior realism"
+    ],
+    "mood": "optimistic, intelligent, human-centered future"
+  },
+  "constraints": {
+    "no_text": true,
+    "no_logo": true,
+    "no_watermark": true,
+    "no_extra_fingers": true,
+    "no_distortion": true,
+    "no_overexposure": true
+  }
+}

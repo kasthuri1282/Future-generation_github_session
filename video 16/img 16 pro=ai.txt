@@ -1,0 +1,35 @@
+{
+  "prompt": "A futuristic AI research laboratory where diverse human scientists collaborate with advanced robotic arms. A large transparent holographic interface floats in the air, filled with glowing data charts, neural networks, and digital schematics. A robotic hand interacts with the hologram alongside humans. Inspirational cinematic quote text appears on screen: 'AI is not here to replace human work. AI is our best friend. It helps to solve human error.' Ultra-modern environment, clean technology aesthetic, realistic human expressions, emphasis on collaboration between humans and AI.",
+  "style": "futuristic cinematic realism",
+  "lighting": "cool blue ambient lighting, soft neon highlights, volumetric light",
+  "camera": {
+    "shot_type": "medium-wide shot",
+    "angle": "slightly low angle",
+    "lens": "40mm",
+    "depth_of_field": "moderate background blur"
+  },
+  "color_grading": "cool blue and teal tones, subtle cyan highlights, balanced contrast",
+  "mood": "inspirational, intelligent, optimistic, futuristic",
+  "environment": {
+    "location": "advanced AI research lab",
+    "technology_level": "near-future",
+    "time_of_day": "night interior"
+  },
+  "details": {
+    "holograms": true,
+    "robotic_arms": true,
+    "transparent_ui": true,
+    "digital_particles": true
+  },
+  "text_overlay": {
+    "font_style": "clean sans-serif, modern",
+    "text_color": "white and cyan",
+    "alignment": "center"
+  },
+  "quality": {
+    "resolution": "8K",
+    "sharpness": "ultra",
+    "dynamic_range": "HDR"
+  },
+  "negative_prompt": "cartoon style, low resolution, messy background, dystopian mood, horror elements, exaggerated robots, blurry text"
+}
