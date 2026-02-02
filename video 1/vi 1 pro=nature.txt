@@ -1,0 +1,61 @@
+{
+  "prompt": "A breathtaking cinematic sunrise over a vast mountain valley. The sun slowly rises above layered mountain ranges, casting golden rays across mist-filled forests. A winding river glows as it reflects the morning light. In the foreground, colorful wildflowers gently sway in a soft breeze. A flock of birds crosses the sky, silhouetted against the warm sunrise. The atmosphere is peaceful, majestic, and emotionally uplifting.",
+  "scene_flow": [
+    {
+      "scene": 1,
+      "description": "Ultra-wide aerial establishing shot of layered mountains covered in morning mist as the sun begins to rise.",
+      "camera_movement": "slow cinematic drone push forward",
+      "duration_seconds": 4
+    },
+    {
+      "scene": 2,
+      "description": "The sun breaks the horizon, volumetric god rays spreading through clouds and mist.",
+      "camera_movement": "gentle tilt up",
+      "duration_seconds": 3
+    },
+    {
+      "scene": 3,
+      "description": "Wide shot of a winding river below, reflecting golden light as fog drifts over the forest.",
+      "camera_movement": "smooth lateral pan",
+      "duration_seconds": 4
+    },
+    {
+      "scene": 4,
+      "description": "Foreground wildflowers softly moving in the breeze with mountains blurred in the background.",
+      "camera_movement": "slow push-in with shallow depth of field",
+      "duration_seconds": 3
+    },
+    {
+      "scene": 5,
+      "description": "A flock of birds flies across the glowing sunrise sky, adding scale and motion.",
+      "camera_movement": "locked-off shot with natural motion",
+      "duration_seconds": 2
+    },
+    {
+      "scene": 6,
+      "description": "Final wide pull-back revealing the entire valley bathed in warm morning light.",
+      "camera_movement": "slow cinematic pull-back",
+      "duration_seconds": 4
+    }
+  ],
+  "style": "cinematic ultra-realism",
+  "lighting": "golden sunrise light, volumetric god rays, soft atmospheric haze",
+  "color_grading": "cinematic teal and gold, warm highlights, cool shadows, natural greens",
+  "mood": "peaceful, awe-inspiring, hopeful, majestic",
+  "camera": {
+    "frame_rate": "24fps",
+    "aspect_ratio": "16:9",
+    "lens": "anamorphic 24mm",
+    "depth_of_field": "deep cinematic focus"
+  },
+  "audio_suggestion": {
+    "music": "soft cinematic orchestral score with ambient pads",
+    "sound_effects": ["gentle wind", "distant birds", "soft river flow"]
+  },
+  "quality": {
+    "resolution": "4K",
+    "dynamic_range": "HDR",
+    "motion_quality": "ultra-smooth cinematic"
+  },
+  "negative_prompt": "urban structures, people, animals close-up, harsh lighting, shaky camera, fast cuts, cartoon style, oversaturated colors, low realism"
+}

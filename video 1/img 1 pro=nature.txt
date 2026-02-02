@@ -1,0 +1,32 @@
+{
+  "prompt": "An epic cinematic sunrise over a vast mountain valley. The sun rises on the horizon, casting golden rays across layered blue-green mountains. A winding river snakes through dense forests below, reflecting the soft morning light. In the foreground, vibrant wildflowers in pink, orange, yellow, and purple bloom on a hillside, gently lit by the sun. A flock of birds flies across the glowing sky, adding motion and life. Light mist drapes the valleys, creating depth and atmosphere. Ultra-realistic, breathtaking, peaceful, and cinematic nature scene.",
+  "style": "cinematic ultra-realism",
+  "lighting": "golden sunrise light, volumetric sun rays, soft atmospheric haze",
+  "camera": {
+    "shot_type": "ultra-wide landscape shot",
+    "angle": "high vantage point",
+    "lens": "24mm anamorphic",
+    "depth_of_field": "deep focus"
+  },
+  "color_grading": "cinematic teal and gold, natural greens, warm highlights, soft shadows",
+  "mood": "awe-inspiring, serene, hopeful, majestic",
+  "environment": {
+    "location": "mountain valley wilderness",
+    "season": "late spring",
+    "time_of_day": "sunrise"
+  },
+  "details": {
+    "atmospheric_mist": true,
+    "sun_flare": true,
+    "birds_in_flight": true,
+    "foreground_flowers": true,
+    "river_reflection": true
+  },
+  "quality": {
+    "resolution": "8K",
+    "sharpness": "ultra",
+    "dynamic_range": "HDR",
+    "texture_detail": "high"
+  },
+  "negative_prompt": "urban elements, buildings, people, roads, low resolution, oversaturated colors, cartoon style, flat lighting, artificial look"
+}
