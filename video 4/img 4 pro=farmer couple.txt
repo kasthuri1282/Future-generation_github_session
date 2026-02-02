@@ -1,0 +1,20 @@
+{
+  "prompt": "A cinematic sunrise scene of an Indian farmer and his wife walking through lush green paddy fields with two bullocks pulling a wooden plough. The farmer is wearing a white dhoti and headscarf, smiling confidently. The wife is wearing a red saree carrying a basket on her head. Soft morning mist, palm trees in the background, birds flying in the sky, warm golden sunlight, volumetric light rays, peaceful rural village atmosphere, ultra realistic, cinematic composition, wide-angle shot, shallow depth of field, HDR, film color grading, sharp focus, epic and inspirational mood",
+
+  "negative_prompt": "blurry, low resolution, noise, cartoon, anime, artificial colors, overexposed, watermark, text, logo, distortion, pixelated, unrealistic faces",
+
+  "aspect_ratio": "16:9",
+  "resolution": "3840x2160",
+  "style": "cinematic, ultra realistic, rural India, movie scene",
+
+  "camera": {
+    "type": "wide angle lens",
+    "aperture": "f/2.8",
+    "iso": 100,
+    "shutter_speed": "1/200"
+  },
+
+  "lighting": "golden hour sunrise light with soft mist and volumetric rays",
+  "color_grading": "cinematic film LUT, warm tones, natural greens",
+  "quality": "8K, HDR, ultra detailed, professional photography"
+}
