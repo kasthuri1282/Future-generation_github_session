@@ -1,0 +1,28 @@
+{
+  "prompt": "A cinematic rural development scene showing a modern concrete building under construction beside green rice fields. An excavator and cement mixer truck working on muddy land, villagers standing and watching near the site. Strong contrast between agriculture and urban construction. Golden morning sunlight, soft mist in background, realistic shadows, dramatic clouds, cinematic color grading, ultra realistic, high detail, film look, wide angle landscape perspective, shallow depth of field, global illumination, 8K quality",
+  
+  "style": "cinematic, ultra realistic, documentary film look, HDR",
+  
+  "camera": {
+    "shot_type": "wide landscape shot",
+    "lens": "35mm cinematic lens",
+    "perspective": "deep leading lines road and field",
+    "depth_of_field": "shallow depth of field with background blur"
+  },
+  
+  "lighting": {
+    "type": "golden hour morning light",
+    "effects": ["soft fog", "sun rays", "natural shadows"]
+  },
+  
+  "image_settings": {
+    "aspect_ratio": "16:9",
+    "resolution": "4096x2304",
+    "quality": "ultra HD, 8K",
+    "sharpness": "high detail realistic textures"
+  },
+  
+  "mood": "realistic, dramatic, rural transformation, inspirational",
+  
+  "negative_prompt": "cartoon, anime, low quality, blurry, distortion, watermark, text, unrealistic colors, oversaturated"
+}
