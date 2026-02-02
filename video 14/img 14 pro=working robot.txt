@@ -1,0 +1,77 @@
+{
+  "image": {
+    "resolution": "8K",
+    "aspect_ratio": "16:9",
+    "quality": "ultra cinematic, photorealistic",
+    "style": "cinematic science-fiction film still"
+  },
+  "scene": {
+    "location": "flooded rice paddy farmland",
+    "region_vibe": "rural South Asian countryside",
+    "time_of_day": "sunset golden hour",
+    "weather": "dramatic clouds with warm sun rays",
+    "environment": "water-filled rice rows, distant mountains, palm trees, rural huts",
+    "atmosphere": "epic, calm, hopeful future"
+  },
+  "primary_subject": {
+    "type": "humanoid AI robot",
+    "design": "advanced white humanoid robot with soft blue AI markings",
+    "mobility": "tracked agricultural base",
+    "action": "kneeling in shallow water while analyzing crops on a handheld device",
+    "emotion": "focused, intelligent, gentle"
+  },
+  "secondary_subjects": {
+    "drones": {
+      "count": 3,
+      "description": "autonomous agricultural drones hovering overhead",
+      "motion": "stable hover with subtle forward drift"
+    },
+    "tech_infrastructure": {
+      "elements": [
+        "portable agricultural technology tent",
+        "soil sensors placed near crops"
+      ]
+    }
+  },
+  "camera": {
+    "shot_type": "wide cinematic hero shot",
+    "angle": "low eye-level for grandeur",
+    "composition": "rule of thirds, strong foreground reflections",
+    "lens": "40mm anamorphic",
+    "depth_of_field": "moderate with cinematic falloff",
+    "focus": "sharp on robot, soft background"
+  },
+  "lighting": {
+    "style": "natural cinematic sunset lighting",
+    "key_light": "warm backlight from setting sun",
+    "fill_light": "soft sky diffusion",
+    "rim_light": "golden rim outlining robot and drones",
+    "contrast": "cinematic high dynamic range"
+  },
+  "color_grading": {
+    "look": "epic cinematic grade",
+    "palette": "warm golds, earthy greens, cool tech blues",
+    "saturation": "rich but controlled",
+    "film_stock": "Kodak Vision3 500T"
+  },
+  "post_processing": {
+    "film_grain": "organic cinematic grain",
+    "bloom": "soft bloom on sun highlights",
+    "vignette": "subtle cinematic vignette",
+    "reflections": "realistic water reflections"
+  },
+  "mood_theme": {
+    "genre": "cinematic sci-fi realism",
+    "theme": "AI enhancing sustainable agriculture",
+    "emotion": "trust, progress, harmony between technology and nature",
+    "message": "the future farms with intelligence"
+  },
+  "constraints": {
+    "no_text_overlay": true,
+    "no_logos": true,
+    "no_watermark": true,
+    "no_extra_limbs": true,
+    "no_face_distortion": true,
+    "no_over_sharpening": true
+  }
+}

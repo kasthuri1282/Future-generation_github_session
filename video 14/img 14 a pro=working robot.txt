@@ -1,0 +1,85 @@
+{
+  "image": {
+    "resolution": "8K",
+    "aspect_ratio": "16:9",
+    "quality": "ultra cinematic, photorealistic",
+    "style": "cinematic science-fiction film still"
+  },
+  "scene": {
+    "location": "flooded rice paddy fields",
+    "region_vibe": "rural South Asian countryside",
+    "time_of_day": "sunrise",
+    "weather": "soft morning haze with diffused sunlight",
+    "environment": "water-filled crop rows, distant hills, palm trees, village silhouettes",
+    "atmosphere": "calm, hopeful, futuristic harmony"
+  },
+  "subjects": [
+    {
+      "type": "humanoid AI robots",
+      "count": 4,
+      "design": "sleek white futuristic robots with subtle blue light accents",
+      "actions": [
+        "one robot operating a tracked agricultural machine",
+        "two robots kneeling and planting rice seedlings by hand",
+        "one robot assisting with precision farming"
+      ],
+      "emotion": "focused, gentle, cooperative"
+    },
+    {
+      "type": "human farmers",
+      "count": 6,
+      "description": "local farmers standing and observing in background",
+      "wardrobe": "traditional rural clothing",
+      "emotion": "curious, hopeful, trusting"
+    }
+  ],
+  "technology_elements": {
+    "drones": {
+      "count": 2,
+      "description": "autonomous agricultural drones flying overhead",
+      "motion": "stable hover with subtle forward drift",
+      "purpose": "crop monitoring and analysis"
+    }
+  },
+  "camera": {
+    "shot_type": "wide cinematic establishing shot",
+    "angle": "low eye-level aligned with crop rows",
+    "composition": "strong leading lines from rice rows toward horizon",
+    "lens": "32mm anamorphic",
+    "depth_of_field": "deep foreground detail with soft atmospheric background",
+    "focus": "sharp on robots and seedlings, soft falloff toward farmers"
+  },
+  "lighting": {
+    "style": "natural cinematic sunrise lighting",
+    "key_light": "warm low-angle sunlight",
+    "fill_light": "soft sky diffusion",
+    "rim_light": "golden rim outlining robots and drones",
+    "contrast": "gentle cinematic contrast with lifted shadows"
+  },
+  "color_grading": {
+    "look": "high-end cinematic grade",
+    "palette": "warm golds, soft greens, muted blues",
+    "saturation": "natural and restrained",
+    "film_stock": "Kodak Vision3 250D"
+  },
+  "post_processing": {
+    "film_grain": "fine organic grain",
+    "bloom": "subtle glow on highlights and sun",
+    "vignette": "light cinematic vignette",
+    "clarity": "filmic softness with sharp subject detail"
+  },
+  "mood_theme": {
+    "genre": "hopeful sci-fi realism",
+    "theme": "AI working in harmony with humanity and nature",
+    "emotion": "trust, progress, balance",
+    "message": "the future of farming is collaborative, not replaceable"
+  },
+  "constraints": {
+    "no_text_overlay": true,
+    "no_logos": true,
+    "no_watermark": true,
+    "no_extra_limbs": true,
+    "no_distorted_faces": true,
+    "no_over_sharpening": true
+  }
+}

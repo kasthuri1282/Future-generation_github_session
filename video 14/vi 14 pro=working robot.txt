@@ -1,0 +1,66 @@
+{
+  "video": {
+    "duration": "10 seconds",
+    "fps": 24,
+    "resolution": "4K",
+    "aspect_ratio": "2.39:1",
+    "quality": "ultra cinematic, photorealistic"
+  },
+  "scene": {
+    "location": "lush green agricultural field",
+    "region_vibe": "tropical South Asian countryside",
+    "time_of_day": "early morning golden hour",
+    "weather": "clear sky with soft atmospheric haze",
+    "environment": "dense rice crops, palm trees, modern tech tent in background",
+    "atmosphere": "hopeful, inspirational, future-forward"
+  },
+  "subjects": {
+    "human": {
+      "description": "young technology leader standing confidently in the field",
+      "wardrobe": "green technology t-shirt, casual jeans",
+      "emotion": "confident, optimistic, visionary",
+      "action": "gesturing toward AI systems while holding a tablet"
+    },
+    "robots": {
+      "type": "humanoid AI robots",
+      "count": 4,
+      "design": "clean white futuristic bodies with blue accents",
+      "action": "standing and moving naturally, assisting farming operations"
+    }
+  },
+  "technology_elements": {
+    "drone": {
+      "description": "autonomous agricultural drone hovering overhead",
+      "motion": "slow stabilized hover with slight lateral movement"
+    },
+    "ground_robot": {
+      "description": "tracked AI farming robot",
+      "motion": "slow forward movement through crops"
+    },
+    "sensors": "smart soil sensors blinking softly"
+  },
+  "camera": {
+    "shot_sequence": [
+      {
+        "shot_type": "wide establishing shot",
+        "movement": "slow cinematic drone push-in",
+        "lens": "35mm anamorphic"
+      },
+      {
+        "shot_type": "medium hero shot",
+        "movement": "gentle dolly left",
+        "lens": "50mm anamorphic"
+      }
+    ],
+    "stabilization": "cinematic gimbal smoothness",
+    "depth_of_field": "shallow cinematic focus"
+  },
+  "lighting": {
+    "style": "natural cinematic daylight",
+    "key_light": "warm sunrise sunlight",
+    "fill_light": "soft bounce from green crops",
+    "rim_light": "subtle highlights outlining humans and robots",
+    "contrast": "balanced cinematic contrast"
+  },
+  "color_grading": {
+    "look": "high-end cinematic
