@@ -1,0 +1,8 @@
+{
+  "prompt": "Cinematic photo of a futuristic AI social service team walking through green agricultural fields in rural India, five young volunteers wearing blue t-shirts with 'Social Eagle AI Team', carrying smart devices and equipment, drone flying above them, villagers watching in the background, sunrise golden hour lighting, inspirational technology for humanity theme, film still, ultra realistic, shallow depth of field, 35mm lens, dramatic composition",
+  "negative_prompt": "blurry, low quality, cartoon, anime, unrealistic lighting, distorted faces, extra fingers",
+  "size": "1920x1080",
+  "n": 1,
+  "cfg_scale": 8,
+  "steps": 30
+}

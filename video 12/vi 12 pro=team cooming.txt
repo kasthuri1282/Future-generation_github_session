@@ -1,0 +1,12 @@
+{
+  "prompt": "Cinematic video of a futuristic AI social service team walking confidently through green agricultural fields in rural India, five young volunteers wearing blue 'Social Eagle AI Team' t-shirts, carrying smart devices and equipment, drone flying above them, villagers watching from both sides, inspirational technology for humanity theme, sunrise golden hour lighting, film still look, ultra realistic, dramatic composition",
+  "negative_prompt": "cartoon, anime, low quality, blurry, jittery motion, unrealistic movement, distorted faces",
+  "duration": 8,
+  "fps": 24,
+  "size": "1920x1080",
+  "camera": "slow cinematic forward tracking shot",
+  "motion": "team walking in slow motion, drone hovering smoothly, villagers reacting subtly",
+  "lighting": "warm sunrise golden hour, volumetric light rays",
+  "style": "cinematic, film look, 35mm, anamorphic lens",
+  "seed": 2026
+}
