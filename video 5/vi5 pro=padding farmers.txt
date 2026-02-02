@@ -1,0 +1,29 @@
+{
+  "prompt": "A cinematic ultra-realistic scene in 16:9 landscape. Golden sunrise lighting with dramatic clouds, soft fog, and cinematic color grading. Camera slowly moves forward with a smooth drone shot. High dynamic range, sharp focus, cinematic depth of field, realistic shadows, volumetric light rays, epic atmosphere, professional film look, 4K ultra HD, detailed environment, realistic motion blur, global illumination, dramatic cinematic tone",
+  
+  "style": "cinematic, ultra realistic, movie quality, HDR, professional film grading",
+  
+  "camera": {
+    "movement": "slow cinematic drone forward push",
+    "angle": "wide angle landscape shot",
+    "lens": "35mm cinematic lens",
+    "depth_of_field": "shallow depth of field, background blur"
+  },
+  
+  "lighting": {
+    "type": "golden hour cinematic lighting",
+    "effects": ["volumetric light", "soft fog", "sun rays"]
+  },
+  
+  "video_settings": {
+    "aspect_ratio": "16:9",
+    "resolution": "1920x1080",
+    "fps": 30,
+    "duration_seconds": 8,
+    "quality": "ultra HD"
+  },
+  
+  "mood": "epic, emotional, inspirational",
+  
+  "negative_prompt": "blurry, low quality, cartoon, unrealistic, artifacts, distortion, watermark, text"
+}

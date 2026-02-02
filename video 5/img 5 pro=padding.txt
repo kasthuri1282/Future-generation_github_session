@@ -1,0 +1,12 @@
+{
+  "prompt": "A cinematic ultra-realistic scene of an Indian farmer and his wife working in a flooded paddy field during golden sunrise. The farmer ploughs the field with two brown bullocks, water splashing around their legs. The woman in a red saree smiles while planting rice seedlings. Palm trees and rural village houses in the background, soft morning mist, birds flying in the sky, warm golden sunlight, volumetric light rays, shallow depth of field, cinematic composition, HDR, film color grading, inspirational rural India mood",
+
+  "negative_prompt": "blurry, low resolution, cartoon, anime, unrealistic faces, oversaturated colors, watermark, text, logo, distortion, extra hands, extra legs, noise",
+
+  "aspect_ratio": "16:9",
+  "resolution": "4096x2160",
+  "quality": "8K HDR ultra detailed",
+  "style": "cinematic, ultra realistic, documentary photography, movie scene",
+  "lighting": "golden hour sunrise, soft mist, volumetric light",
+  "camera": "wide angle lens, shallow depth of field, cinematic framing"
+}
