@@ -1,0 +1,12 @@
+{
+  "prompt": "Cinematic video of a young female volunteer distributing food and water to poor villagers in a dry rural Indian village, cracked soil, emotional humanitarian moment, factories in the background releasing smoke, social awareness theme, golden hour lighting, film still look, shallow depth of field, ultra realistic, dramatic composition",
+  "negative_prompt": "cartoon, anime, low quality, blurry, jittery motion, distorted faces, bad anatomy",
+  "duration": 8,
+  "fps": 24,
+  "size": "1920x1080",
+  "camera": "slow cinematic dolly shot from left to right",
+  "motion": "gentle hand movements, villagers receiving food, light wind in background",
+  "lighting": "soft golden hour, volumetric light",
+  "style": "cinematic, film look, 35mm, anamorphic lens",
+  "seed": 2024
+}

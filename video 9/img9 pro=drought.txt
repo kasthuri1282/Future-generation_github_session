@@ -1,0 +1,19 @@
+{
+  "prompt": "A cinematic environmental scene showing four rural farmers standing on cracked dry land with traditional farming tools. In the background, large industrial factories with tall chimneys releasing dark smoke into the sky. Bright harsh sunlight, dusty atmosphere, dry barren field, dramatic contrast between nature and industry, emotional and realistic mood, ultra realistic, cinematic color grading, high detail textures, shallow depth of field, global illumination, documentary film look, 8K quality",
+  
+  "style": "cinematic, ultra realistic, environmental documentary, HDR",
+  
+  "camera": {
+    "shot_type": "wide landscape establishing shot",
+    "lens": "24mm cinematic wide lens",
+    "perspective": "low angle ground level with cracked earth leading lines",
+    "depth_of_field": "deep focus with slight background haze"
+  },
+  
+  "lighting": {
+    "type": "harsh midday sunlight",
+    "effects": ["dust haze", "heat distortion", "long shadows"]
+  },
+  
+  "image_settings": {
+    "asp
